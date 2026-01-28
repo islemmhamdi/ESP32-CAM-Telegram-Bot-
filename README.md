@@ -78,3 +78,6 @@ This project implements a **smart ESP32-CAM system** that can:
    const char* password = "YOUR_WIFI_PASSWORD";
    String chatId = "YOUR_TELEGRAM_CHAT_ID";
    String BOTtoken = "YOUR_TELEGRAM_BOT_TOKEN";
+
+
+<img width="854" height="476" alt="image" src="https://github.com/user-attachments/assets/06676379-4483-4eb4-a6fa-99e1954141ad" />
